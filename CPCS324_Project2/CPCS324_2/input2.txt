@@ -1,0 +1,18 @@
+Digraph 1
+10 16
+A B 10
+A F 5
+F B 3 
+F J 2
+J B 6
+B C 3
+B E 3
+E C 4
+J G 8
+E G 2
+G D 7
+C D 4
+C H 5
+H D 4
+H I 3
+D I 4
